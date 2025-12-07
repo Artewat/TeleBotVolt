@@ -11,7 +11,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-BOT_TOKEN = "7385311498:AAEZOcjIEtfu0rwJoiCrumUCCx_fIIiU0yc"
+BOT_TOKEN = ""
 
 # Для хранения состояния анкет пользователей
 user_states = {}
